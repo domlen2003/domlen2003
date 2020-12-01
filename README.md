@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋 Hi there, I'm Dominik, aka TDDominik or domlen2003
 
   <summary>:zap: GitHub Stats</summary>
   
