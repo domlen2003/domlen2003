@@ -5,8 +5,7 @@
 - I'm seemingly one of the few that really Java
 - Currently learning Python, JavaScript & Web development
 ## Collaboration on:
-- [TD-Bot][tdbotGH], a simple discord bot
-<br>
+- [TD-Nation][TD], is the server the TD-Bot projecz originated from.
 
 ## Languages and Tools:
 
