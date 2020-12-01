@@ -6,7 +6,8 @@
 - Currently learning Python, JavaScript & Web development
 
 ## Connect with me:
-- [TD-Nation][TD], is the server the TD-Bot projecz originated from.
+[TD-Nation][TD], is the server the TD-Bot projecz originated from.
+<br>
 [<img align="left" alt="Dominik| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 ## Languages and Tools:
@@ -19,9 +20,6 @@
 
 ## Github Stats:  
   <img align="center" alt="Dominik´s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=domlen2003&show_icons=true&hide_border=true" />
-    <br>
-    <br>
-    <br>
     <br>
 <img align="" alt="Dominik's Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domlen2003">
   
