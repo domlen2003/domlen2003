@@ -25,5 +25,5 @@
 <img align="" alt="Dominik's Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domlen2003">
   
 [TD]: https://discord.gg/wmEUMjnfpb
-[instagram]: https://instagram.com/th3ph4nt0m_dev
+[instagram]: https://instagram.com/dominik.le_03
 [tdbotGH]: https://github.com/Th3Ph4nt0m/TD-Bot
