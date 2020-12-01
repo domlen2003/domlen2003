@@ -2,4 +2,4 @@
 
   <summary>:zap: GitHub Stats</summary>
   
-  ![Dominik's github stats](https://github-readme-stats.vercel.app/api?username=domlen2003)
+  [Dominik's github stats](https://github-readme-stats.vercel.app/api?username=domlen2003)
