@@ -4,16 +4,17 @@
 - 💻 I'm currently working on the Gameserver Bot [TD-Bot][tdbotGH]!
 - I'm seemingly one of the few that really Java
 - Currently learning Python, JavaScript & Web development
-## Collaboration on:
+
+## Connect with me:
 - [TD-Nation][TD], is the server the TD-Bot projecz originated from.
+[<img align="left" alt="Dominik| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 ## Languages and Tools:
 
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"> <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>  < <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"> <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 <br>
-<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> < <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/> <img src="https://img.shields.io/badge/python-319440.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>  <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/> <img src="https://img.shields.io/badge/python-319440.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
-<br>
 
 
 ## Github Stats:  
