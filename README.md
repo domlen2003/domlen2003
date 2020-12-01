@@ -6,9 +6,10 @@
 - Currently learning Python, JavaScript & Web development
 
 ## Connect with me:
-[TD-Nation][TD], is the server the TD-Bot projecz originated from.
-<br>
+
 [<img align="left" alt="Dominik| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+<br>
+[TD-Nation][TD], is the server the TD-Bot projecz originated from.
 
 ## Languages and Tools:
 
