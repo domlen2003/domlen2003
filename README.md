@@ -7,7 +7,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Dominik| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="center" alt="Dominik| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 <br>
 [TD-Nation][TD], is the server the TD-Bot project originated from.
 
