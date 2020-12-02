@@ -9,7 +9,7 @@
 
 [<img align="center" alt="Dominik| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 <br>
-<a img align="center" alt="Dominik| Instagram" width="22px" href= "mailto:dominikalexanderlenz@gmail.com">Send Email</a>
+<a img align="center" alt="Dominik| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href= "mailto:dominikalexanderlenz@gmail.com">Send Email</a>
 ## OR join our Nation:
 
 [TD-Nation][TD], is the server the TD-Bot project originated from.
