@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/kotlin-DD8431.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/python-319440.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-F2EF59.svg?&style=for-the-badge&logo=pycharm&logoColor=white/> <img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-F2EF59.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"/>  
 <br>
 <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab%20-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 <br>
