@@ -32,9 +32,6 @@
   <img align="center" alt="Dominik´s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=domlen2003&show_icons=true&hide_border=true" />
     <br>
 <img align="" alt="Dominik's Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domlen2003">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
   
 [TD]: https://discord.gg/wmEUMjnfpb
 [instagram]: https://instagram.com/dominik.le_03
