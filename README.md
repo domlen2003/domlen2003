@@ -12,7 +12,7 @@
 <br>
 ## Join our Nation or my other projects:
 
-[TD-Nation][TD], is the server the TD-Bot project originated from.
+[TD-Nation][TD], is the server the TD-Bot project originated from. <br>
 [Hamibot][hamibotGH], the next-generation bot system
 
 ## Languages and Tools:
