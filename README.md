@@ -35,3 +35,4 @@
 [TD]: https://discord.gg/wmEUMjnfpb
 [instagram]: https://instagram.com/dominik.le_03
 [tdbotGH]: https://github.com/Th3Ph4nt0m/TD-Bot
+[hamibotGH]: https://github.com/nicosammitohamibot
