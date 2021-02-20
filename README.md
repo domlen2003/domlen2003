@@ -34,7 +34,6 @@
 <img align="" alt="Dominik's Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domlen2003">
 
 <!--START_SECTION:waka-->
-```text```
 <!--END_SECTION:waka-->
   
 [TD]: https://discord.gg/wmEUMjnfpb
