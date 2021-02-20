@@ -2,7 +2,7 @@
 ## I am a 17 year old student and coding enthusiast from Germany!
 
 - 💻 I'm currently working on the Gameserver Bot [TD-Bot][tdbotGH]!
-- I'm seemingly one of the few that really like Java (well but i like Kotlin even more)
+- I'm seemingly one of the few that really like Java
 - Currently learning Python, JavaScript & Web development
 
 ## Connect with me:
