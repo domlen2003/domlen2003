@@ -17,10 +17,10 @@
 
 ## Languages and Tools:
 
-<img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/python-319440.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/python-319440.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <br>
 <br>
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white">  
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"/>  
 <br>
 <br>
 <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab%20-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
