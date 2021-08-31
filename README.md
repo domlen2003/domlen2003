@@ -1,9 +1,9 @@
 # Hi there, I'm Dominik, aka TDDominik or domlen2003👋
 ## I am a 17 year old student and coding enthusiast from Germany!
 
-- 💻 I'm currently working on the Gameserver Bot [TD-Bot][tdbotGH]!
-- I'm seemingly one of the few that really like Java
-- Currently learning Python, JavaScript & Web development
+- 💻 I'm currently working on the [Notabot-System][notabotWeb]!
+- I'm seemingly one of the few that really like Java (tho Kotlin is better)
+- Currently learning C#, GRPC and Golang
 
 ## Connect with me:
 
@@ -12,7 +12,8 @@
 <br>
 ## Join our Nation or my other projects:
 
-[TD-Nation][TD], is the server the TD-Bot project originated from. <br>
+[TD-Nation][TD], is my gaming server. <br>
+[TD-Bot][tdbotGH], is the bot for TD-NAtion. <br>
 [Notabot][notabotWeb], kill the mayhem (among discord bots)
 
 ## Languages and Tools:
