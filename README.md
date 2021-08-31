@@ -13,7 +13,7 @@
 ## Join our Nation or my other projects:
 
 [TD-Nation][TD], is the server the TD-Bot project originated from. <br>
-[Hamibot][hamibotGH], the next-generation bot system
+[Notabot][notabotWeb], kill the mayhem (among discord bots)
 
 ## Languages and Tools:
 
@@ -36,4 +36,4 @@
 [TD]: https://discord.gg/wmEUMjnfpb
 [instagram]: https://instagram.com/dominik.le_03
 [tdbotGH]: https://github.com/Th3Ph4nt0m/TD-Bot
-[hamibotGH]: https://github.com/nicosammitohamibot
+[notabotWeb]: https://notabot.cc
