@@ -24,27 +24,29 @@
   <img src="https://img.shields.io/badge/csharp-976ECD.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-319440.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 </p>
 <br>
 <p class="editors">
-  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-ca38c7?style=for-the-badge&logo=jetbrains&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-ca38c7?style=for-the-badge&logo=jetbrains&logoColor=white"/> 
   <img src="https://img.shields.io/badge/WebStorm-55b9ee?style=for-the-badge&logo=WebStorm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pycharm-F2EF59.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-F2EF59.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> 
 </p>
 <br>
-<p class="vcs">
-  <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab%20-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+<p class="deploy">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gitlab%20-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-3f68d6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 </p>
 <br>
 <p class="tools">
-  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gradle-022E37.svg?&style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-022E37.svg?&style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
   <img src="https://img.shields.io/badge/WakaTime-000000.svg?&style=for-the-badge&logo=WakaTime&logoColor=white"/>
 </p>
 
