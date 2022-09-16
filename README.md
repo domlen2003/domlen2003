@@ -1,5 +1,5 @@
 # Hi there, I'm Dominik, aka TDDominik or domlen2003👋
-## I am a 17 year old student and coding enthusiast from Germany!
+## I am a 19 year old student and coding enthusiast from Germany!
 
 - 💻 I'm currently working on the [Notabot-System][notabotWeb]!
 - I'm seemingly one of the few that really like Java (tho Kotlin is better)
