@@ -1,9 +1,9 @@
 # Hi there, I'm Dominik, aka TDDominik or domlen2003👋
 ## I am a 20 year old student and coding enthusiast from Germany!
 
-- 💻 I'm currently working on the [Notabot-System][notabotWeb]!
-- I'm seemingly one of the few that really like Java (tho Kotlin is better)
-- Currently learning Rust (and C because I have to for Uni)
+- 💻 I'm currently working on the [Mealscanner App][mealscannerWeb] and hoping to resume working on the [Notabot-System][notabotWeb]!
+- I'm seemingly one of the few that really like Java (even over Kotlin)
+- Currently learning C (because I have to for Uni)
 
 ## Connect with me:
 [<img align="left" alt="Dominik| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
@@ -61,3 +61,4 @@
 [instagram]: https://instagram.com/dominik.le_03
 [tdServer]: https://discord.gg/3z8jWKu
 [notabotWeb]: https://nota.bot
+[mealscannerWeb]: https://mealscanner.de
