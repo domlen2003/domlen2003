@@ -17,8 +17,9 @@
 ## Languages and Tools:
 <p class="languages">
   <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kotlin-DD8431.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-ce422b.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin-DD8431.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/csharp-976ECD.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-319440.svg?&style=for-the-badge&logo=python&logoColor=white"/>
