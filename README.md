@@ -1,7 +1,7 @@
 # Hi there, I'm Dominik, aka TDDominik or domlen2003👋
-## I am a 21 year old student and coding enthusiast from Germany!
+## I am a 22 year old student and coding enthusiast from Germany!
 
-- 💻 I'm currently working on the [Mealscanner App][mealscannerWeb] and hoping to resume working on the [Notabot-System][notabotWeb]!
+- 💻 I'm currently working at [innomove][innomove] and hoping to resume working on the [Notabot-System][notabotWeb]!
 - Hot Take: Rust will take over the dev world, not AI.
 - I'm seemingly one of the few that really like Java (even over Kotlin)
 
@@ -9,10 +9,6 @@
 [<img align="left" alt="Dominik| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 [<img align="left" alt="Dominik| Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">][privateMail]
 <br>
-
-## Join me on my projects:
-[TD-Nation][tdServer], is my gaming server. <br>
-[NotABot][notabotWeb], kill the mayhem (among discord bots)
 
 ## Languages and Tools:
 <p class="languages">
@@ -61,7 +57,6 @@
 <img align="" alt="Dominik's Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domlen2003">
 
 [instagram]: https://instagram.com/dominik.le_03
-[tdServer]: https://discord.gg/3z8jWKu
 [notabotWeb]: https://nota.bot
-[mealscannerWeb]: https://mealscanner.de
+[innomoveWeb]: https://innomove.de
 [privateMail]: mailto:dominikalexanderlenz@gmail.com
