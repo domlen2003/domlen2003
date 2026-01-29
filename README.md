@@ -1,9 +1,9 @@
-# Hi there, I'm Dominik, aka TDDominik or domlen2003👋
+# Hi there, I'm Dominik, aka <Dominik/> or domlen2003👋
 ## I am a 22 year old student and coding enthusiast from Germany!
 
-- 💻 I'm currently working at [innomove][innomove] and hoping to resume working on the [Notabot-System][notabotWeb]!
+- 💻 I'm currently working at [innomove][innomoveWeb] and hoping to resume working on the [Notabot-System][notabotWeb]!
 - Hot Take: Rust will take over the dev world, not AI.
-- I'm seemingly one of the few that really like Java (even over Kotlin)
+- I'm seemingly one of the few that actually like Java (even over Kotlin)
 
 ## Connect with me:
 [<img align="left" alt="Dominik| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
